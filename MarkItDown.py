@@ -54,7 +54,7 @@ TIPOS = {
     ".html": "HTML", ".htm": "HTML", ".txt": "Texto", ".md": "Markdown",
     ".epub": "EPub", ".zip": "ZIP",
     ".jpg": "Imagen", ".jpeg": "Imagen", ".png": "Imagen", ".gif": "Imagen",
-    ".mp3": "Audio", ".wav": "Audio", ".m4a": "Audio",
+    ".wav": "Audio", ".m4a": "Audio",
 }
 
 EXT_VALIDAS = set(TIPOS.keys())
