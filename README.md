@@ -122,10 +122,6 @@ El programa acepta los formatos soportados por **MarkItDown**, entre ellos:
 - HTML
 - XML
 - JSON
-- CSV / TSV
-- EPUB
-- Imágenes
-- Audio
 - ZIP
 
 ---
