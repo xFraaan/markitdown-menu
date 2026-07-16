@@ -49,28 +49,28 @@ python MarkItDown.py
 ## Menú principal
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│ 🚀 MarkItDown Converter                                             v1.0   │
-├────────────────────────────────────────────────────────────────────────────┤
-│                                                                            │
-│ Archivos cargados                                                          │
-│                                                                            │
-│ #   Nombre                                        Tipo         Tamaño      │
-│ ────────────────────────────────────────────────────────────────────────── │
-│ 1   documento.pdf                                PDF          1.2 MB       │
-│ 2   informe.docx                                Word         540 KB       │
-│                                                                            │
-│ Total: 2 archivos                                                        │
-│                                                                            │
-├────────────────────────────────────────────────────────────────────────────┤
-│                                                                            │
-│  A  Agregar archivos                                                      │
-│  F  Agregar carpeta                                                       │
-│  C  Convertir                                                             │
-│  L  Limpiar lista                                                         │
-│  Q  Salir                                                                 │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│      🚀 MarkItDown Converter v1.0            │
+├──────────────────────────────────────────────┤
+│                                              │
+│ Archivos cargados                            │
+│                                              │
+│ #  Nombre             Tipo        Tamaño     │
+│ ──────────────────────────────────────────── │
+│ 1  documento.pdf      PDF         1.2 MB     │
+│ 2  informe.docx       Word        540 KB     │
+│                                              │
+│ Total: 2 archivos                            │
+│                                              │
+├──────────────────────────────────────────────┤
+│                                              │
+│ A  Agregar archivos                          │
+│ F  Agregar carpeta                           │
+│ C  Convertir                                 │
+│ L  Limpiar lista                             │
+│ Q  Salir                                     │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
