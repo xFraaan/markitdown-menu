@@ -11,7 +11,7 @@ Ideal para convertir documentos de forma rápida sin tener que ejecutar comandos
 - 📂 Escaneo opcional de subcarpetas.
 - 📊 Barra de progreso durante la conversión.
 - ✅ Resumen de conversiones exitosas y errores.
-- 💻 Compatible con Windows, Linux y macOS.
+- 💻 Compatible con Windows.
 - 🎨 Compatible con terminales Unicode y ASCII.
 
 ---
